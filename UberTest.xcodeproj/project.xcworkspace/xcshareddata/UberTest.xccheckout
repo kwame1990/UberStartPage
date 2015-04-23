@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>42FA70F7-4B5A-4E62-81C1-BB2C0B04A2B3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UberTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>73EAEBFE99AFA3D84849195B5EC345E48DFD903A</key>
+		<string>https://github.com/kwame1990/UberStartPage.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UberTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>73EAEBFE99AFA3D84849195B5EC345E48DFD903A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kwame1990/UberStartPage.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>73EAEBFE99AFA3D84849195B5EC345E48DFD903A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>73EAEBFE99AFA3D84849195B5EC345E48DFD903A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>uber</string>
+		</dict>
+	</array>
+</dict>
+</plist>
